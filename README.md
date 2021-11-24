@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi! 👋 I'm Ulhaq Mz</h1>
 
-<!--
-**ulhaqxyz/ulhaqxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/ultimareall"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Ichika (≧ ∇ ≦)">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://t.me/ultimareall"><img src="https://telegra.ph/file/98f9c3d76cd4975de9db4.jpg" alt="Velgrynd"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ultimareall&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/ultimareall?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+</p>
+
