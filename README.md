@@ -8,7 +8,9 @@
   <a href="https://t.me/ultimareall"><img src="https://telegra.ph/file/98f9c3d76cd4975de9db4.jpg" alt="Velgrynd"></a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ultimareall&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/ultimareall?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-</p>
+## GitHub Stats 🌟
+
+![Ulhaq Mz github stats](https://github-readme-stats.vercel.app/api?username=ulhaqxyz&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulhaqxyz&theme=chartreuse-dark&layout=compact)](https://github.com/ulhaqxyz/ulhaqxyz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ulhaqxyz&repo=Projek-Ultah&theme=blue-green)](https://github.com/ulhaqxyz/ulhaqxyz)
 
