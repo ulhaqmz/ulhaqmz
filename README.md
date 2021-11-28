@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Ulhaq Mz</h1>
 
 <p align="center">
-  <a href="https://t.me/ultimareall"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Ichika (≧ ∇ ≦)">
+  <a href="https://wa.me/62895330026617"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Ulhaq Mz">
 </p>
 
 ## GitHub Stats 🌟
