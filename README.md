@@ -17,7 +17,7 @@
 
 ## GitHub Stats 🌟
 
-![Ulhaq Mz github stats](https://github-readme-stats.vercel.app/api?username=ulhaqxyz&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulhaqxyz&theme=chartreuse-dark&layout=compact)](https://github.com/ulhaqxyz/ulhaqxyz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ulhaqxyz&repo=bot&theme=blue-green)](https://github.com/ulhaqxyz/bot)
+![Ulhaq Mz github stats](https://github-readme-stats.vercel.app/api?username=ulhaqmz&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulhaqmz&theme=chartreuse-dark&layout=compact)](https://github.com/ulhaqmz/ulhaqmz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ulhaqmz&repo=bot&theme=blue-green)](https://github.com/ulhaqmz/api-ulhaqmz)
 
